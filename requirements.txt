@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+langchain-google-community
+speechrecognition
+pyttsx3
+PyAudio
